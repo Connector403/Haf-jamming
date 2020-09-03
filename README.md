@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# Haf-jamming
+Front-end website: allows users to search for songs, artists, and albums; create a playlist and then save it to their Spotify account. 
+>>>>>>> ab2b5a40d59dc9452c941045ea358a17943dc9f5
